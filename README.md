@@ -19,3 +19,6 @@ quantum-pinn-solver/
 │   └── utils.py              # Visualization module
 ├── train.py                  # Training pipeline
 └── README.md                 # Documentation
+```
+## 📊 Wavefunction Visualization
+![Quantum Wavefunction Snapshot](quantum_wavefunction.png)
