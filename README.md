@@ -18,3 +18,5 @@ quantum-pinn-solver/
 │   └── schrodinger_pinn.py   # PINN architecture & residual loss
 ├── train.py                   # Training pipeline
 └── README.md                  # Documentation
+## 📊 Wavefunction Visualization
+![Quantum Wavefunction Snapshot](quantum_wavefunction.png)
